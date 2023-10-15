@@ -1,1 +1,2 @@
-# OnlineWorkTracking
+# OnlineWorkTracking - The application that is used to manage and track the works inside the organization
+The "Online Content Work Tracking" system is a software solution designed for YouTuber organizations. It enables streamlined work submission, review, and feedback, while also serving as a central repository for all content-related information. This system enhances collaboration, ensures quality control, and provides data-driven insights, optimizing content production processes.
